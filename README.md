@@ -1,4 +1,4 @@
-### Hey, I'm Herbie 👋
+## Hey, I'm Herbie 👋
 
 🔭 I’m currently working on a new website for Tim Vine
 
@@ -9,3 +9,11 @@
 📫 How to reach me: https://herbievine.com
 
 ⚡ Fun fact: I like cats 🙌
+
+## Socials
+
+Twitter: https://twitter.com/herbievine
+
+GitHub: https://github.com/herbievine
+
+Medium: https://medium.com/@herbievine
