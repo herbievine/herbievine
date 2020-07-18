@@ -1,22 +1,11 @@
 ### Hey, I'm Herbie 👋
 
-I'm a student at Highlands College, Jersey, studying Information Technology.
+🔭 I’m currently working on a new website for Tim Vine
 
-I love creating & developing web apps. I've always been captured by the endless posibilities of the web and what it has to offer.
+🌱 I’m currently learning TypeScript & Vue 3
 
-Programming has also driven me to learn how to build apps for Android/iOS using Flutter and Dart. 
+👯 I’m looking to collaborate on anything JavaScript / Vue related
 
-<!--
-**herbievine/herbievine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 How to reach me: https://herbievine.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Fun fact: I like cats 🙌
