@@ -1,11 +1,11 @@
 ## Hey, I'm Herbie 👋  
   
-### I'm a Student & Full Stack Developer!  
-- 🔭 I’m currently working on some Fiverr gigs!
-- 🌱 I’m currently learning TypeScript and Vue 3
+### I'm a Student 
+- 🔭 I’m currently working on a Tinder clone
+- 🌱 I’m currently learning TypeScript, Vue 3 and React
 - 👯 I’m looking to collaborate on any Vue related web projects
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I like cooking 🍳 and cycling 🚴️
+- ⚡ Fun fact: I like cooking 🍳, cycling 🚴️ and tennis 🎾
 
 ### Connect with me:
 
