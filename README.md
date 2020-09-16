@@ -1,6 +1,6 @@
 ## Hey, I'm Herbie 👋  
   
-### I'm a Student 
+### I'm a Student at Highlands College Jersey
 - 🔭 I’m currently working on a Tinder clone
 - 🌱 I’m currently learning TypeScript, Vue 3 and React
 - 👯 I’m looking to collaborate on any Vue related web projects
